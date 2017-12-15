@@ -155,7 +155,11 @@ f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/validation_details.png"/>
 
 ### Use of template outputs
--If you want to provide the attendees some results that are required in the workshop, you can provide it by using an output section in the ARM template. The results can be sent as email to the attendees when the event begins.  
+-If you want to provide the attendees some results that are required in the workshop, you can provide it by using an output section in the ARM template. The results can also be sent as email to the attendees when the template deployment is completed.  
+
+### Creating and Managing ODL
+
+
 
 ### Creating and Managing Event
 
