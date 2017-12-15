@@ -105,7 +105,7 @@
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Template_Edit.png"/>
 
-* Permission Type : Choose any of the deployment plan as below
+* Permission Type : Choose any of the Permission type as below
 <br> a. [Azure Built-in Role](#azure-built-in-role) : Choose this permission type to assign the Azure Built-in Role to the Attendee/Instructor of the workshop.
 <br>* [Profile Type](#profile-type) : Choose Attendee or Instructor according to whom you want to assign this permission.
 <br>* [Identity](#identity) : Choose AAD user or AAD Service Principle according to where you want to apply this permission.
@@ -115,12 +115,8 @@
 <br>* [Apply at Launch](#apply-at-launch) : Check this option if you want to apply the permission at 
 
 -Click on **Submit** once required options above are filled.
-
-<br> b. [Shared Instance](#shared-instance) : Choosing this plan will provide one resource group for all the attendees in the workshop.
-<br> c. [Resource Group - Two](#resource-group-two) : Choose this plan if you need two resource group for the workshop to deploy.
-<br> d. [Resource Group - Three](#resource-group-three) : Choose this plan if you need three resource group for the workshop to deploy.
-<br> e. [Resource Group - Four](#resource-group-four) : Choose this plan if you need four resource group for the workshop to deploy.   
-<br> f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need five resource group for the workshop to deploy. 
+ 
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Azure_built-in_role.png"/>
 
 -Click on **Submit** once required options above are filled.  
 
