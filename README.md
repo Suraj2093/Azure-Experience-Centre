@@ -148,12 +148,11 @@ f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need 
 
 -Click on **Validate subscription with ARM template** icon corresponding to the template created.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/template-validation.png"/>
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Template_validate.png"/>
 
--Provide the azure subscription group and subscription in which the validator should be run and click on **Submit**.  
+-Provide the azure subscription group and subscription in which the validator should be run. Also provide the regions where you want to validate the template and click on **Submit**.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/final-validation.png"/>
-
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/validation_details.png"/>
 
 ### Use of template outputs
 -If you want to provide the attendees some results that are required in the workshop, you can provide it by using an output section in the ARM template. The results can be sent as email to the attendees when the event begins.  
