@@ -37,7 +37,7 @@
 
 ### Home Page Overview
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/AEC_Portal.png"/>  
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Portal_overview.png"/>  
 
 ### How to login to AEC
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main.
@@ -47,15 +47,15 @@
 
 - On clicking **LOGIN** button, you will be redirected to the following page.
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Login-1.png"/>
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/portal_login.png"/>
 
 - Enter your Email address and click on Next.
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Choose-Account.png"/>
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/portal_login1.png"/>
 
 - Enter the password for your account and click on Sign in
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Password.png"/>
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Login_password.png"/>
 
 ### How to logout from AEC
 -To logout from the portal, Click on the button with your username on the top right hand side of the page. A drop down list will be displayed. Click on logout and you will be logged out and will be redirected to the home page.
@@ -66,11 +66,11 @@
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **Templates** on the left pane of the portal. This will list the templates if any.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Select-templates.png"/>
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/templates.png"/>
 
 -Click on **ADD** at the top right corner of the templates page, to add a new template.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/add-template.png"/>
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/add_template.png"/>
 
 -Now provide the following details in the Add Template page that comes up.  
 * Name : Provide a suitable name to the template.
@@ -99,7 +99,11 @@
 
 -Click on **Submit** once required options above are filled.
 
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/add_template_details.png"/>
+
 -Click on **Edit Icon** to edit the created template and add the template permissions if any
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Template_Edit.png"/>
 
 * Permission Type : Choose any of the deployment plan as below
 <br> a. [Azure Built-in Role](#azure-built-in-role) : Choose this permission type to assign the Azure Built-in Role to the Attendee/Instructor of the workshop.
@@ -116,10 +120,7 @@
 <br> c. [Resource Group - Two](#resource-group-two) : Choose this plan if you need two resource group for the workshop to deploy.
 <br> d. [Resource Group - Three](#resource-group-three) : Choose this plan if you need three resource group for the workshop to deploy.
 <br> e. [Resource Group - Four](#resource-group-four) : Choose this plan if you need four resource group for the workshop to deploy.   
-<br> f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need five resource group for the workshop to deploy.
-
-* Instructor Custom RBAC URL(optional) : Create custom RBAC policies for the instructor in the workshop and upload in storage. Provide the link to policy here.  
-* Custom ARM policy URL(optional) : Create a custom policy for the attendees, so that we can restrict the resources that they deploy in Azure.  
+<br> f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need five resource group for the workshop to deploy. 
 
 -Click on **Submit** once required options above are filled.  
 
