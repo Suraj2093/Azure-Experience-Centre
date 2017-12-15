@@ -85,7 +85,7 @@
 <br> c. [Resource Group - Two](#resource-group-two) : Choose this plan if you need two resource group for the workshop to deploy.
 <br> d. [Resource Group - Three](#resource-group-three) : Choose this plan if you need three resource group for the workshop to deploy.
 <br> e. [Resource Group - Four](#resource-group-four) : Choose this plan if you need four resource group for the workshop to deploy.   
-<br> f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need five resource group for the workshop to deploy.
+f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need five resource group for the workshop to deploy.
 
 * Lab Guide URL(optional) : Upload the lab guide for the workshop, to storage and provide the lab guide link. 
 * Demo URL(optional) : Provide the link to sample or quickstart.  
