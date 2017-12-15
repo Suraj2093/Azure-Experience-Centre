@@ -140,12 +140,13 @@ f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need 
  
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/custom_role.png"/>
 
--Click on **Submit** once required options above are filled.  
+-Once all the permissions are added to the template, please click on **Submit** above the template Permissions section.  
 
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/permissions_template.png"/>
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/templates-creation.png"/>
 
--Click on **Validate subscription with ARM template** icon corresponding to the event created.  
+-Click on **Validate subscription with ARM template** icon corresponding to the template created.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/template-validation.png"/>
 
