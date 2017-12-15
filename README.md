@@ -194,13 +194,43 @@ f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need 
 •	Enable Vouchers(optional) : Check this option if you want to genete vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only
 •	Allow personal email addresses : Checking this option will allow sign up to the ODl from social accounts such as gmail,yahoo,etc, Business/Work emails address are always allowed.
 •	Allow USer to delete the ODL? : Check this option if you want to allow the users to delete the ODL after finishing the workshop.
-•	Enable Hot Instances : Check this option if you want to pre-deploy n number the deployments, so that the users needn't wait for the deployment to finish once they register and launch the lab. Once you enable this option it will ask for Mininum Available instances, which will not allow the instances to go below this number.
+•	Enable Hot Instances : Check this option if you want to pre-deploy n number the deployments, so that the users needn't wait for the deployment to finish once they register and launch the lab. Once you enable this option it will ask for Minimum Available instances, which will not allow the instances to go below this number.
 •	Test : Check this option if the ODL is for test purpose, so the it does not get extracted to the excel sheet
 
 -Click on **Submit** once required options above are filled.
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_detail.png"/>
 
+-ODL Hot Instance Management
+
+a. Why Hot Instnaces - Hot Instance is used to pre-deploy the Lab environment even before the users register for the ODL. This is used to save the time of the users, they needn't wait for the pre-requisite template to deploy after launching the lab. If the hot instance is deployed early the users will immediately receive the lab details once they launch lab. The number of hot instance is deployed according to the number of registrations for the ODL.
+
+b. Enable/Disable Hot Instances
+•	Click on **Edit Icon** to edit the created ODL.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Edit_ODL.png"/>
+
+•	Scroll down the Edit ODL page and check the option the corresponding to Enable Hot Instance
+•	This will ask the Minimum Available instances, where you can enter the minimum hot instances that is required at any point of time of the workshop. Once this is set the available hot instances will always be grater than or equal to this number.
+•	Click on **Submit** once required options above are filled.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Enable-hot.png"/>
+
+c. Scheduling Hot Instances
+•	Enabling the Hot Instance in the Edit ODL page will create a new icon corresponding to the ODL.
+•	Click on **Check Hot Instance Icon** to edit the created ODL.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Check_hot.png"/>
+
+•	In the Hot Istance page, click on **ADD HOT INSTANCES** to deploy hot instnaces for the ODL.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Add_instances.png"/>
+
+•	In the Add Hot instance Window that pops up, the Currently available hot instances show the instance which are availble, i.e unassigned to any user.
+•	In the Add Hot instance Window that pops up, enter the number of hot instance that you want to deploy, corresponding to the Number of Hot Instances test box.
+•	Click on **Submit** once required options above are filled.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Number_instancepng.png"/>
                 
 ### Creating and Managing Event
 
@@ -219,7 +249,7 @@ The event registration page looks as below
 **I** : Clicking on this will take you back to Events calendar.  
 
 - Now we will create an **Event**
-- Navigate to the portal using the link https://azuretraining-mgmt.spektrasystems.com/#/main and login with your AEC credentials.  
+- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **Events** on the left pane of the portal. This will list the events if any.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/select-event.png"/>
@@ -270,7 +300,7 @@ The event registration page looks as below
 
 ### Archieve an Event
 
-Navigate to the portal using the link https://azuretraining-mgmt.spektrasystems.com/#/main and login with your AEC credentials.  
+Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **Events** on the left pane of the portal. This will list the events if any.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/select-event.png"/>
@@ -287,7 +317,7 @@ Navigate to the portal using the link https://azuretraining-mgmt.spektrasystems.
 
 
 -Now we will **Approve/Reject** the attendees registration from AEC portal.  
--Navigate to the portal using the link https://azuretraining-mgmt.spektrasystems.com/#/main and login with your AEC credentials.  
+-Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **Events** on the left pane of the portal. This will list the events if any.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/select-event.png"/>
