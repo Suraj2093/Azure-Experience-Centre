@@ -231,6 +231,12 @@ c. Scheduling Hot Instances
 •	Click on **Submit** once required options above are filled.
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Number_instancepng.png"/>
+
+### User ODL Management
+
+  
+-Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
+-Once logged in, click on **ODL** on the left pane of the portal. This will list the ODLs if any.
                 
 ### Creating and Managing Event
 
