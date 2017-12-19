@@ -232,6 +232,8 @@ c. Scheduling Hot Instances
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Number_instancepng.png"/>
 
+•	In the Add Hot instance Window, check the box corresponding to schedule to schedule the deployment of Hot instances at a particular time.  
+
 ### User ODL Management
 
   
