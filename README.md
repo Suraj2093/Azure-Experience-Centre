@@ -195,6 +195,7 @@ f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need 
 •	Allow personal email addresses : Checking this option will allow sign up to the ODl from social accounts such as gmail,yahoo,etc, Business/Work emails address are always allowed.  
 •	Allow USer to delete the ODL? : Check this option if you want to allow the users to delete the ODL after finishing the workshop.  
 •	Enable Hot Instances : Check this option if you want to pre-deploy n number the deployments, so that the users needn't wait for the deployment to finish once they register and launch the lab. Once you enable this option it will ask for Minimum Available instances, which will not allow the instances to go below this number.  
+•	Intelligence to self-heal : Check this option if you want to start another deployment for the failed hot instances and delete the failed ones.  
 •	Test : Check this option if the ODL is for test purpose, so the it does not get extracted to the excel sheet.  
 
 - Click on **Submit** once required options above are filled.
@@ -203,22 +204,21 @@ f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need 
 
 - ODL Hot Instance Management
 
-a. Why Hot Instnaces - Hot Instance is used to pre-deploy the Lab environment even before the users register for the ODL. This is used to save the time of the users, they needn't wait for the pre-requisite template to deploy after launching the lab. If the hot instance is deployed early the users will immediately receive the lab details once they launch lab. The number of hot instance is deployed according to the number of registrations for the ODL.
+a. Why Hot Instnaces - Hot Instance is used to pre-deploy the Lab environment even before the users register for the ODL. This is used to save the time of the users, they needn't wait for the pre-requisite template to deploy after launching the lab. If the hot instance is deployed early the users will immediately receive the lab details once they launch lab. The number of hot instance is deployed according to the number of registrations for the ODL.  
 
-b. Enable/Disable Hot Instances
-•	Click on **Edit Icon** to edit the created ODL.
+b. Enable/Disable Hot Instances  
+•	Click on **Edit Icon** to edit the created ODL.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Edit_ODL.png"/>
 
-•	Scroll down the Edit ODL page and check the option the corresponding to Enable Hot Instance
-•	This will ask the Minimum Available instances, where you can enter the minimum hot instances that is required at any point of time of the workshop. Once this is set the available hot instances will always be grater than or equal to this number.
-•	Click on **Submit** once required options above are filled.
+•	Scroll down the Edit ODL page and check the option the corresponding to Enable Hot Instance  
+•	This will ask the Minimum Available instances, where you can enter the minimum hot instances that is required at any point of time of the workshop. Once this is set the available hot instances will always be grater than or equal to this number.  
+•	Click on **Submit** once required options above are filled.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Enable-hot.png"/>
 
-c. Scheduling Hot Instances
-•	Enabling the Hot Instance in the Edit ODL page will create a new icon corresponding to the ODL.
-•	Click on **Check Hot Instance Icon** to edit the created ODL.
+•	Enabling the Hot Instance in the Edit ODL page will create a new icon corresponding to the ODL.  
+•	Click on **Check Hot Instance Icon** to edit the created ODL.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Check_hot.png"/>
 
@@ -231,6 +231,10 @@ c. Scheduling Hot Instances
 •	Click on **Submit** once required options above are filled.
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Number_instancepng.png"/>
+
+c. Scheduling Hot Instances  
+•	In the Hot Instance page, c.  
+•	Click on **Check Hot Instance Icon** to edit the created ODL.  
 
 •	In the Add Hot instance Window, check the box corresponding to schedule to schedule the deployment of Hot instances at a particular time.  
 
