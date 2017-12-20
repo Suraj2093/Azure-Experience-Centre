@@ -43,12 +43,9 @@
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main.
 - Click on the **Log In** button on the top right portion of the page.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Login.png"/>  
-
-- On clicking **LOGIN** button, you will be redirected to the following page.
-
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/portal_login.png"/>
 
+- On clicking **Log In** button, you will be redirected to the following page.
 - Enter your Email address and click on Next.
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/portal_login1.png"/>
