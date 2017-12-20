@@ -226,17 +226,37 @@ b. Enable/Disable Hot Instances
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Add_instances.png"/>
 
-•	In the Add Hot instance Window that pops up, the Currently available hot instances show the instance which are availble, i.e unassigned to any user.
-•	In the Add Hot instance Window that pops up, enter the number of hot instance that you want to deploy, corresponding to the Number of Hot Instances test box.
-•	Click on **Submit** once required options above are filled.
+•	In the Add Hot instance Window that pops up, the Currently available hot instances show the instance which are availble, i.e unassigned to any user.  
+•	In the Add Hot instance Window that pops up, enter the number of hot instance that you want to deploy, corresponding to the Number of Hot Instances test box.  
+•	Click on **ADD** once required options above are filled.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Number_instancepng.png"/>
 
 c. Scheduling Hot Instances  
-•	In the Hot Instance page, c.  
-•	Click on **Check Hot Instance Icon** to edit the created ODL.  
+•	In the Hot Instance page, click on **ADD HOT INSTANCES** to schedule the deployment of hot instnaces for the ODL.  
 
-•	In the Add Hot instance Window, check the box corresponding to schedule to schedule the deployment of Hot instances at a particular time.  
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Add_instances.png"/>
+
+•	In the Add Hot instance Window that pops up, the Currently available hot instances show the instance which are availble, i.e unassigned to any user.
+•	In the Add Hot instance Window that pops up, enter the number of hot instance that you want to deploy, corresponding to the Number of Hot Instances test box.  
+•	Check the box corresponding to schedule, to schedule the deployment of Hot instances at a particular time.  
+•	This will ask you the Time Zone, select the time zone of where the workshop is going to be held.  
+•	Enter the time at which you want to start the deployment of hot instance.  
+•	Click on **ADD** once required options above are filled.  
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/hot_schedule.png"/>
+
+•	In the Hot Instance page, click on **SCHEDULES** to view the Hot Instance schedule history.  
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/click_schedule.png"/>
+
+•	In the Hot Instance Schedules page, you can view all the schedules for the ODL. 
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/schedules_history.png"/>
+
+•	In the Hot Instance Schedules page, you can also delete a schedule if you do not want to deploy the hot instance at scheduled time.  
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/schedule_delete.png"/>
 
 ### User ODL Management
 
