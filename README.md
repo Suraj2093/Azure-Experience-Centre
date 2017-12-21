@@ -255,7 +255,19 @@ c. Scheduling Hot Instances
 
 ### User ODL Management
 
-  
+ The ODL registration page looks as below  
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_reg.png"/>
+
+**A** : The users can register for the workshop here with the required details and click on **Submit**.  
+**B** : The name of the event is displayed here, which is same as the ODL name given at the time of ODL creation. It also shows the organisation which conducts the workshop with their Logo.  
+**C** : This is the short description of the workshop, which is same as the description given at the time of ODL creation.  
+**D** : This is the duration for which the user will have access to ODL environment.  
+**E** : This is the email ID of the contact person who scheduled the workshop, which is same as given at the time of ODL creation.  
+**F** : These are the tags mentioned while creating the ODL.  
+**G** : This is the Custom ODL name that we mentioned at the time of ODL creation.  
+
+
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **ODL** on the left pane of the portal. This will list the ODLs if any.
                 
