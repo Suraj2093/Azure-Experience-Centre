@@ -267,6 +267,13 @@ c. Scheduling Hot Instances
 **F** : These are the tags mentioned while creating the ODL.  
 **G** : This is the Custom ODL name that we mentioned at the time of ODL creation.  
 
+- There are 4 type of user signup
+
+<br>a.	Registration Required : This defines that the user should register for the ODL to get access to the ODL.  
+<br>b.	Registration & Email Validation Required : This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.  
+<br>c.	Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
+<br>d.	Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
+
 
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **ODL** on the left pane of the portal. This will list the ODLs if any.
