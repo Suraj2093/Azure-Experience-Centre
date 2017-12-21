@@ -141,8 +141,6 @@ f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need 
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/permissions_template.png"/>
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/templates-creation.png"/>
-
 -Click on **Validate subscription with ARM template** icon corresponding to the template created.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Template_validate.png"/>
