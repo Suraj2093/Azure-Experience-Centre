@@ -269,15 +269,27 @@ c. Scheduling Hot Instances
 
 - There are 4 type of user signup
 
-<br>a.	Registration Required : This defines that the user should register for the ODL to get access to the ODL.  
+a.	Registration Required : This defines that the user should register for the ODL to get access to the ODL.  
 <br>b.	Registration & Email Validation Required : This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.  
 <br>c.	Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
 <br>d.	Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
 
+- Registration Management
 
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **ODL** on the left pane of the portal. This will list the ODLs if any.
-                
+   
+ <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_click.png"/> 
+  
+-Click on **Edit Icon** to edit the created ODL.  
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Edit_ODL.png"/>
+
+-In the Edit ODL page, copy the URL from the first field. This is the ODL registration page URL. The Instructor can customize this URL using bitlink before 
+
+
+
+   
 ### Creating and Managing Event
 
 The event registration page looks as below  
