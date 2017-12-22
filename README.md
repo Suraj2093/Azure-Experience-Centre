@@ -287,9 +287,9 @@ a.	Registration Required : This defines that the user should register for the OD
 
 -In the Edit ODL page, copy the URL from the first field. This is the ODL registration page URL. The Instructor can customize this URL using bitlink before 
 
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_URL.png"/>
 
-
-   
+  
 ### Creating and Managing Event
 
 The event registration page looks as below  
