@@ -292,6 +292,87 @@ a.	Registration Required : This defines that the user should register for the OD
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_URL.png"/>
 
+### Managing and distributing Voucher’s
+
+-Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
+
+-Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
+
+<kbd><img src="/Images/Vouchers_odl.png"/></kbd>
+
+-Navigate Test ODL that created earlier, Click on Edit Icon to edit the created ODL.For create voucher, approval will be Invite only.
+* Approval : Choose only **invite only** option to define the approval type for the ODL.
+
+-Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
+
+* Enable Vouchers : Check this option if you want to genete vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only.
+
+-Click on **Submit** once required options above are filled.
+
+<kbd><img src="/Images/Click_EnableVoucher.png"/></kbd>
+
+-click on **Vouchers** button.
+
+<kbd><img src="/Images/Click_VoucherButton.png"/></kbd>
+
+-Click on **Add Vouchers**.
+
+<kbd><img src="/Images/Click_AddVouchers.png"/></kbd>
+
+-Now provide the following details in the Add Vouchers Page that comes up.
+
+<kbd><img src="/Images/Click_Submit.png"/></kbd>
+
+-Now you can see the voucher added successfully.
+
+<kbd><img src="/Images/Vouchers_addedSuccessfully.png"/></kbd>
+
+### User ODL Management
+
+The ODL registration page looks as below.
+
+<kbd><img src="/Images/Registration_Page.png"/></kbd>
+
+-The users can register for the workshop here with the required details and click on Submit.
+
+* There are 4 type of user signup.
+
+a. Registration Required : This defines that the user should register for the ODL to get access to the ODL.
+
+b. Registration & Email Validation Required : This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.
+
+c. Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.
+
+d. Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
+
+### Distributing Vouchers
+-Copy the Voucher Code that you created and give in registration page.
+
+<kbd><img src="/Images/Copy_VoucherCode.png"/></kbd>
+
+-paste the Voucher Code in Registration page below.
+
+<kbd><img src="/Images/Registration_Add%20details.png"/></kbd>
+
+-Click on **Submit** once required options are filled.
+
+-Now you can see the registration successful.
+
+<kbd><img src="/Images/Registration_Successfull.png"/></kbd>
+
+-Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
+
+-Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
+
+-Click on Vouchers Button.
+
+-Now Click on **Available** button, you can see the voucher code that is available for user.
+
+<kbd><img src="/Images/Click_Available.png"/></kbd>
+
+-Now click on **Redeemed** button, you can see that voucher code is redeem for user.
+
+<kbd><img src="/Images/Click_Redeemed.png"/></kbd>
   
 ### Creating and Managing Event
 
