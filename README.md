@@ -4,42 +4,14 @@
 <br><br>
 
 <!-- TOC -->
-
 1. [Getting Started](#getting-started)
-* a. [Logging to Management Portal](#logging-to-management-portal)
-<br> b. [Browse Through](#browse-through)
-<br> c. [Definitions](#definitions)
-<br>* [ODL](#odl)
-<br>* [Event](#event)
-<br>* [Template](#template)
-<br>* [License](#license)
-<br>* [User Management](#user-management)
-<br> d. [Adding Co-Admins)](#adding-co-admins)
-2. [Creating AEC templates](#creating-aec-template)
-<br> a. [Create Template](#create-template)
-<br>* [Explanation of all fields](#explanation-of-all-fields)
-<br>* [Region best practices](#region-best-practices)
-<br> b. [ARM Template Best Practices](#arm-template-best-practices)
-<br>* [Best practice for creating ARM template for AEC(Outputs, Parameters etc)](#best-practice-for-creating-arm-template-for-aec)
-<br>* [Parameter file best practices(Explanation of functions)](#parameter-file-best-practices)
-<br> c. [Template Permissions](#template-permissions)
-<br>* [Explanation with details to implement](#explanation-with-details-to-implement)
-<br>* [Recommendation for](#recommendation-for)
-<br> d. [Validating Template](#validating-template)
-<br>* [Validation](#validation)
-3. [Creating and Managing ODLs'](#creating-and-managing-odl)
-<br> a. [Create ODL](#create-ODL)
-<br>* [Explanation of all fields](#explanation-of-all-fields)
-<br>* [Region best practices](#region-best-practices)
-<br> b. [ODL Hot Instances Management](#odl-hot-instances-management)
-<br>* [Why and How of Hot Instances](#Why-and-how-of-hot-instances)
-<br>* [Enable/Disable Hot instances](#enable/disable-hot-instances)
-<br>  [Scheduling Hot Instances](#scheduling-hot-instances)
-4. [ODL User Management](#odl-user-management)
-<br>* [Managing and distributing Voucher’s](#managing-and-distributing-Voucher’s)
+ * [Logging to Management Portal](#logging-to-management-portal)
+
 <!-- /TOC -->
 
-## Portal Overview
+# Getting Started
+
+## Logging to Management Portal
 
 ### Home Page Overview
 
