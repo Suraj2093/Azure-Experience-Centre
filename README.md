@@ -6,7 +6,7 @@
 <!-- TOC -->
 
 1. [Getting Started](#getting-started)
-<br> a. [Logging to Management Portal](#logging-to-management-portal)
+* a. [Logging to Management Portal](#logging-to-management-portal)
 <br> b. [Browse Through](#browse-through)
 <br> c. [Definitions](#definitions)
 <br>* [ODL](#odl)
@@ -34,7 +34,7 @@
 <br> b. [ODL Hot Instances Management](#odl-hot-instances-management)
 <br>* [Why and How of Hot Instances](#explanation-of-all-fields)
 <br>* [Enable/Disable Hot instances](#enable/disable-hot-instances)
-[Scheduling Hot Instances](#scheduling-hot-instances)
+<br>  [Scheduling Hot Instances](#scheduling-hot-instances)
 4. [ODL User Management](#odl-user-management)
 <br>* [Managing and distributing Voucher’s](#managing-and-distributing-Voucher’s)
 
@@ -87,7 +87,7 @@
 <br> c. [Resource Group - Two](#resource-group-two) : Choose this plan if you need two resource group for the workshop to deploy.
 <br> d. [Resource Group - Three](#resource-group-three) : Choose this plan if you need three resource group for the workshop to deploy.
 <br> e. [Resource Group - Four](#resource-group-four) : Choose this plan if you need four resource group for the workshop to deploy.   
-f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need five resource group for the workshop to deploy.
+<br> f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need five resource group for the workshop to deploy.
 
 * Lab Guide URL(optional) : Upload the lab guide for the workshop, to storage and provide the lab guide link. 
 * Demo URL(optional) : Provide the link to sample or quickstart.  
@@ -431,7 +431,7 @@ The event registration page looks as below
 	Before Two Weeks  
 	Before Two Days  
 	Before Two Hours  
-                Click on Submit.  
+  Click on Submit.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/event-creation.png"/>
 
