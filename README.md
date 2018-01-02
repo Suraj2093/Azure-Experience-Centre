@@ -16,7 +16,7 @@
 3. [Creating and Managing ODL’s](#creating-and-managing-ODL’s)
  * [ODL Create](#odl-create)
    * [Explanation of all field’s](#explanation-of-all-field’s)
- * [ODL Hot Instances Management](#odl-hot-instances-management) 
+ * [ODL Hot Instance Management](#odl-hot-instance-management) 
    * [Why and How of Hot Instances](#why-and-how-of-hot-instances)
    * [Enable/Disable Hot instances](#enable/disable-hot-instances)
    * [Scheduling Hot Instances](#scheduling-hot-instances)
@@ -26,11 +26,9 @@
  * [Managing and distributing Voucher’s](#managing-and-distributing-voucher’s)
  * [Managing each user lab](#managing-each-user-lab)
 5. [Report](#Report)
- * [Dashboard & Export Report](#dashboard&export-report)
+ * [Dashboard overview & Export Report](#dashboard-overview-&-export-report)
 6. [License Key Distribution](#license-key-distribution)
  * [Create licenses keys](#create-licenses-keys)
-
-    
 
 <!-- /TOC -->
 
