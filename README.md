@@ -79,7 +79,7 @@
 
 -Now you can see the user as co-admin added successfully.
 
-<kbd><img src="/Images/odl_testuser.png/></kbd>
+<kbd><img src="/Images/odl_testuser.png"/></kbd>
 
 ## Creating AEC templates
 
