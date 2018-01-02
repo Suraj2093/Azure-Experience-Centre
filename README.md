@@ -33,6 +33,8 @@
 <br>* [Region best practices](#region-best-practices)
 <br> b. [ODL Hot Instances Management](#odl-hot-instances-management)
 <br>* [Why and How of Hot Instances](#explanation-of-all-fields)
+<br>* [Enable/Disable Hot instances](#enable/disable-hot-instances)
+<br>* [Scheduling Hot Instances](#scheduling-hot-instances)
 4. [ODL User Management](#odl-user-management)
 <br>* [Managing and distributing Voucher’s](#managing-and-distributing-Voucher’s)
 
