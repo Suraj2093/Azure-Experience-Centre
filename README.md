@@ -5,13 +5,17 @@
 
 <!-- TOC -->
 1. [Getting Started](#getting-started)
- * [Logging to Management Portal](#logging-to-management-portal)
+ * [1.1:Logging to Management Portal](#1.1:logging-to-management-portal)
+2. [Creating AEC Templates](#Creating-aec-templates)
+ 
+
+    
 
 <!-- /TOC -->
 
 # Getting Started
 
-## Logging to Management Portal
+## 1.1: Logging to Management Portal
 
 ### Home Page Overview
 
@@ -37,7 +41,9 @@
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Logout.png"/>
 
-### How to Create Template
+## Creating AEC templates
+
+### Create Template
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **Templates** on the left pane of the portal. This will list the templates if any.  
 
