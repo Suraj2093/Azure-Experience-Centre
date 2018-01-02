@@ -363,6 +363,56 @@ d. Invite Only : In this case the instructor can generate the vouchers to be dis
 -Now click on **Redeemed** button, you can see that voucher code is redeem for user.
 
 <kbd><img src="/Images/Click_Redeemed.png"/></kbd>
+
+### Managing each user lab
+- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
+- Once logged in, click on **ODL** on the left pane of the portal. This will list the events if any.  
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_click.png"/>
+
+- Click on **Users** of the ODL's page,This will list the users if any.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/odl_users.png"/>
+
+- Now you can see the user, Click on Invite link.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/odl_sent_Invite.png"/>
+
+- It will redirect the Launch Lab Page. Click on **Launch Lab**.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/odl_launch_lab.png"/>
+
+- Now you can see the your environment is creating.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/odl_environment.png"/>
+
+- Now you will get the ODL user URL details.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/odl_userURL.png"/>
+
+- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials. 
+- Once logged in, click on **ODL's** on the left pane of the portal.Click on users. You can see the all options after launching the lab.
+- In Users, Click on **view lab status**.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/odl_lab_status.png"/>
+
+- In lab status Page, you can reset the password. Click on reset button.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/odl_reset_pwd.png"/>
+
+- Click OK.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/odl_passwd.png"/>
+
+- Now you can delete the environment also. Click on delete environment button.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/odl_delete_environment.png"/>
+
+- Click OK.
+
+<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/odl_click_ok.png"/>
+
+- It will delete successfully.
   
 ### Creating and Managing Event
 
