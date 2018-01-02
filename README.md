@@ -365,34 +365,34 @@ d. Invite Only : In this case the instructor can generate the vouchers to be dis
 <kbd><img src="/Images/Click_Redeemed.png"/></kbd>
 
 ### Managing each user lab
-- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
-- Once logged in, click on **ODL** on the left pane of the portal. This will list the events if any.  
+-Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
+-Once logged in, click on **ODL** on the left pane of the portal. This will list the events if any.  
 
 <kbd><img src="/Images/ODL_click.png"/></kbd>
 
-- Click on **Users** of the ODL's page,This will list the users if any.
+-Click on **Users** of the ODL's page,This will list the users if any.
 
 <kbd><img src="/Images/odl_users.png"/></kbd>
 
-- Now you can see the user, Click on Invite link.
+-Now you can see the user, Click on Invite link.
 
 <kbd><img src="/Images/odl_sent_Invite.png"/></kbd>
 
-- It will redirect the Launch Lab Page. Click on **Launch Lab**.
+-It will redirect the Launch Lab Page. Click on **Launch Lab**.
 
 <kbd><img src="/Images/odl_launch_lab.png"/></kbd>
 
-- Now you can see the your environment is creating.
+-Now you can see the your environment is creating.
 
 <kbd><img src="/Images/odl_environment.png"/></kbd>
 
-- Now you will get the ODL user URL details.
+-Now you will get the ODL user URL details.
 
 <kbd><img src="/Images/odl_userURL.png"/></kbd>
 
-- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials. 
-- Once logged in, click on **ODL's** on the left pane of the portal.Click on users. You can see the all options after launching the lab.
-- In Users, Click on **view lab status**.
+-Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials. 
+-Once logged in, click on **ODL's** on the left pane of the portal.Click on users. You can see the all options after launching the lab.
+-In Users, Click on **view lab status**.
 
 <kbd><img src="/Images/odl_viewlabStatus.png"/></kbd>
 
@@ -400,23 +400,23 @@ d. Invite Only : In this case the instructor can generate the vouchers to be dis
 
 <kbd><img src="/Images/odl_lab_viewstatus.png"/></kbd>
 
-- In lab status Page, you can reset the password. Click on reset button.
+-In lab status Page, you can reset the password. Click on reset button.
 
 <kbd><img src="/Images/odl_reset_labpwd.png"/></kbd>
 
-- Click OK.
+-Click OK.
 
 <kbd><img src="/Images/odl_passwd.png"/></kbd>
 
-- Now you can delete the environment also. Click on delete environment button.
+-Now you can delete the environment also. Click on delete environment button.
 
 <kbd><img src="/Images/odl_delete_environment.png"/></kbd>
 
-- Click OK.
+-Click OK.
 
 <kbd><img src="/Images/odl_click_ok.png"/></kbd>
 
-- It will delete successfully.
+-It will delete successfully.
   
 ### Creating and Managing Event
 
