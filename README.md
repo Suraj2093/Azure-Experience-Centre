@@ -5,8 +5,10 @@
 
 <!-- TOC -->
 1. [Getting Started](#getting-started)
- * [1.1: Logging to Management Portal](#1.1-logging-to-management-portal)
+ * [Logging to Management Portal](#logging-to-management-portal)
 2. [Creating AEC Templates](#Creating-aec-templates)
+ * [Create Template](#create-template)
+   * [Explanation of all fields](#explanation-of-all-fields) 
 
  
 
@@ -16,7 +18,7 @@
 
 # Getting Started
 
-## 1.1: Logging to Management Portal
+## Logging to Management Portal
 
 ### Home Page Overview
 
@@ -55,6 +57,7 @@
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/add_template.png"/>
 
 -Now provide the following details in the Add Template page that comes up.  
+### Explanation of all fields
 * Name : Provide a suitable name to the template.
 * Code : Provide an identifyable course code.
 * Description : Enter the description of the template.  
@@ -83,10 +86,13 @@
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/add_template_details.png"/>
 
+### Template Permissions
+
 -Click on **Edit Icon** to edit the created template and add the template permissions if any
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Template_Edit.png"/>
 
+### Explanation with details to implement 
 * Permission Type : Choose any of the Permission type as below
 <br> a. [Azure Built-in Role](#azure-built-in-role) : Choose this permission type to assign the Azure Built-in Role to the Attendee/Instructor of the workshop.
 <br>* [Profile Type](#profile-type) : Choose Attendee or Instructor according to whom you want to assign this permission.
@@ -126,6 +132,8 @@
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/permissions_template.png"/>
 
+## Validating Template
+### Validation
 -Click on **Validate subscription with ARM template** icon corresponding to the template created.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Template_validate.png"/>
@@ -137,8 +145,8 @@
 ### Use of template outputs
 -If you want to provide the attendees some results that are required in the workshop, you can provide it by using an output section in the ARM template. The results can also be sent as email to the attendees when the template deployment is completed.  
 
-### Creating and Managing ODL
-
+## Creating and Managing ODL’s
+### ODL Create
 - We will create an **ODL**
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 - Once logged in, click on **ODL** on the left pane of the portal. This will list the events if any.  
@@ -149,7 +157,8 @@
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Add_ODL.png"/>
 
-- Now the Add ODL Details window comes up, where you can provide the following details.  
+- Now the Add ODL Details window comes up, where you can provide the following details
+### Explanation of all field’s
 •	Name : Enter the Name of the ODL, which should be displayed on the ODL registration page.  
 •	Template : Select the template which will be used to pre-deploy the resources required for the ODL.  
 •	Description : Enter a description of the ODL which will be displayed on the ODL registration page as description.  
@@ -181,10 +190,11 @@
 - Click on **Submit** once required options above are filled.
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_detail.png"/>
-## ODL Hot Instance Management
 
+### ODL Hot Instance Management
 a. Why Hot Instnaces - Hot Instance is used to pre-deploy the Lab environment even before the users register for the ODL. This is used to save the time of the users, they needn't wait for the pre-requisite template to deploy after launching the lab. If the hot instance is deployed early the users will immediately receive the lab details once they launch lab. The number of hot instance is deployed according to the number of registrations for the ODL.  
-## Enable/Disable Hot Instances ##  
+
+### Enable/Disable Hot Instances   
 •	Click on **Edit Icon** to edit the created ODL.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Edit_ODL.png"/>
@@ -210,7 +220,7 @@ a. Why Hot Instnaces - Hot Instance is used to pre-deploy the Lab environment ev
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Number_instancepng.png"/>
 
-c. Scheduling Hot Instances  
+### Scheduling Hot Instances  
 •	In the Hot Instance page, click on **ADD HOT INSTANCES** to schedule the deployment of hot instnaces for the ODL.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Add_instances.png"/>
@@ -236,7 +246,7 @@ c. Scheduling Hot Instances
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/schedule_delete.png"/>
 
-### User ODL Management
+## ODL User Management
 
  The ODL registration page looks as below  
 
@@ -250,6 +260,7 @@ c. Scheduling Hot Instances
 **F** : These are the tags mentioned while creating the ODL.  
 **G** : This is the Custom ODL name that we mentioned at the time of ODL creation.  
 
+### User Signup type and usage
 - There are 4 type of user signup
 
 a.	Registration Required : This defines that the user should register for the ODL to get access to the ODL.  
@@ -257,7 +268,7 @@ a.	Registration Required : This defines that the user should register for the OD
 <br>c.	Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
 <br>d.	Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
 
-- Registration Management
+### Registration Management(Signup link etc)
 
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **ODL** on the left pane of the portal. This will list the ODLs if any.
@@ -323,7 +334,7 @@ c. Registration & Approval Required : This defines that the user should register
 
 d. Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
 
-### Distributing Vouchers
+**Distributing Vouchers**
 -Copy the Voucher Code that you created and give in registration page.
 
 <kbd><img src="/Images/Copy_VoucherCode.png"/></kbd>
@@ -449,7 +460,7 @@ Navigate to the portal using the link https://experience-azure-mgmt.azurewebsite
 -Now inside event page, scroll down and under the registration section, click on **Manage Attendees**.
 
 ## Report
-## Dashboard Overview
+### Dashboard Overview & Export Reports
 <kbd><img src="/Images/ODL_Dashboard.png"/></kbd>
 
 -In Dashboard Overview Section, you can see the **12 ODLs** and **30 Attendees**.
@@ -509,7 +520,7 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 
 ## License Key Distribution
 
-### How to Create license key
+### Create licenses keys
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **License key** on the left pane of the portal. This will list the Licenses if any. 
 
@@ -546,4 +557,4 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 
 
 
-<!-- /TOC -->
+
