@@ -26,6 +26,10 @@ modules:
     name: Creating AEC Templates
     vars:
       GIT_HOST:
+  validateTemplate:
+    name: Validate Template
+    vars:
+      GIT_HOST:
   CreatingAndManagingODL:
     name: Creating and Managing ODLs
     vars:
