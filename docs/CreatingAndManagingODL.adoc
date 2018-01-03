@@ -2,13 +2,6 @@
 Creating and Managing ODL’s
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* link:#odl-create[ODL Create]
-** link:#explanation-of-all-odl-fields[Explanation of all odl fields]
-* link:#odl-hot-instance-management[ODL Hot Instance Management]
-** link:#why-and-how-of-hot-instances[Why and How of Hot Instances]
-** link:#enable-or-disable-hot-instances[Enable or Disable Hot
-instances]
-** link:#scheduling-hot-instances[Scheduling Hot Instances]
 
 [[odl-create]]
 ODL Create
