@@ -1,0 +1,7 @@
+* Creating AEC Templates](#Creating-aec-templates)
+  * [Create Template](#create-template)
+    * [Explanation of all fields](#explanation-of-all-fields) 
+  * [Template Permissions](#template-permissions)
+    * [Explanation with details to implement](#explanation-with-details-to-implement)
+  * [Validating Template](#validating-template)
+    * [Validation](#validation)
