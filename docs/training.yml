@@ -17,6 +17,7 @@ modules:
   - checklist
   - GettingStarted
   - CreateAECTemplate
+  - validateTemplate
   - CreatingAndManagingODL
   - ODLUsermanagement
-  - validateTemplate
+
