@@ -21,7 +21,7 @@ On Event Day
 After the Event
 ^^^^^^^^^^^^^^^
 
--Ensure Every deployment is created
--Ensure registration is marked closed
+- Ensure Every deployment is created
+- Ensure registration is marked closed
 
 
