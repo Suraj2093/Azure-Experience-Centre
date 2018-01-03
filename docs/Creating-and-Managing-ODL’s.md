@@ -3,7 +3,7 @@
    * [Explanation of all odl fields](#explanation-of-all-odl-fields)
  * [ODL Hot Instance Management](#odl-hot-instance-management) 
    * [Why and How of Hot Instances](#why-and-how-of-hot-instances)
-   * [Enable/Disable Hot instances](#enable-disable-hot-instances)
+   * [Enable or Disable Hot instances](#enable-or-disable-hot-instances)
    * [Scheduling Hot Instances](#scheduling-hot-instances)
 
 ### ODL Create
@@ -55,7 +55,7 @@
 ### Why and How of Hot Instances 
 • Hot Instance is used to pre-deploy the Lab environment even before the users register for the ODL. This is used to save the time of the users, they needn't wait for the pre-requisite template to deploy after launching the lab. If the hot instance is deployed early the users will immediately receive the lab details once they launch lab. The number of hot instance is deployed according to the number of registrations for the ODL.  
 
-### Enable/Disable Hot Instances   
+### Enable or Disable Hot instances   
 •	Click on **Edit Icon** to edit the created ODL.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Edit_ODL.png"/>
