@@ -1,7 +1,7 @@
 ## ODL User Management
  * [User Signup type and usage](#user-signup-type-and-usage)
- * [Registration Management(Signup link etc)](#registration-management(Signup-link-etc))
- * [Managing and distributing Voucher’s](#managing-and-distributing-voucher’s)
+ * [Registration Management](#registration-management)
+ * [Managing and distributing Vouchers](#managing-and-distributing-vouchers)
  * [Managing each user lab](#managing-each-user-lab)
 
 ### ODL User Management
@@ -26,7 +26,7 @@ a.	Registration Required : This defines that the user should register for the OD
 <br>c.	Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
 <br>d.	Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
 
-### Registration Management(Signup link etc)
+### Registration Management
 
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **ODL** on the left pane of the portal. This will list the ODLs if any.
@@ -41,7 +41,7 @@ a.	Registration Required : This defines that the user should register for the OD
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_URL.png"/>
 
-### Managing and distributing Voucher’s
+### Managing and distributing Vouchers
 
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
 
