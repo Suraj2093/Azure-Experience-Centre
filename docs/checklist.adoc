@@ -5,23 +5,23 @@ Check List for CheckPoint Sandblast
 7 Days Before the Event
 ^^^^^^^^^^^^^^^^^^^^^^^
 * For Check Point Sandblast, template is already created
-* Test the Template by following link:#/workshop/labguide/module/validateTemplate[this] , if working well +
-- Then Create an ODL by following link:#/workshop/labguide/module/CreatingAndManagingODL[this] 
+* Test the Template by following link:#/workshop/labguide/module/validateTemplate[this document] , if working well +
+- Then Create an ODL by following link:#/workshop/labguide/module/CreatingAndManagingODL[this document] 
 - Note down the ODL Url and create a bit.ly link to be shared to the users
 - Configure ODL Settings such as Opening Registration, Duration of ODL, expiry etc.
 
-On Event Day
-^^^^^^^^^^^^
+On the Event Day
+^^^^^^^^^^^^****
 
 - Publish the URL in the room/Live session
-- Get the people to register
-- If some user forgets their password, you can reset by following link:#/workshop/labguide/module/ODLUsermanagement[this]
-- To look at user's lab status, to delete deployment, reset deployment, you can follow link:#/workshop/labguide/module/ODLUsermanagement[this]
+- Users can register for the ODL using the shared URL 
+- If some user forgets their password, you can reset by following link:#/workshop/labguide/module/ODLUsermanagement[this document]
+- To look at user's lab status, to delete deployment, reset deployment, you can follow link:#/workshop/labguide/module/ODLUsermanagement[this document]
 
 After the Event
 ^^^^^^^^^^^^^^^
 
-- Ensure Every deployment is created
-- Ensure registration is marked closed
+- Ensure Every deployment is deleted
+- Ensure ODL registration is marked closed
 
 
