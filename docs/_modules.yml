@@ -15,7 +15,7 @@ config:
       
 modules:
   checklist:
-    name: CheckList for the Check Point Sandblast
+    name: CheckList
     vars:
       GIT_HOST:
   GettingStarted:
