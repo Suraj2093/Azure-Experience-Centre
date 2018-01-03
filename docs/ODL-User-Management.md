@@ -99,6 +99,7 @@ d. Invite Only : In this case the instructor can generate the vouchers to be dis
 
 -paste the Voucher Code in Registration page below.
 
+
 <kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Registration_Add%20details.png"/></kbd>
 
 -Click on **Submit** once required options are filled.
@@ -148,7 +149,9 @@ d. Invite Only : In this case the instructor can generate the vouchers to be dis
 <kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_userURL.png"/></kbd>
 
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials. 
+
 -Once logged in, click on **ODL's** on the left pane of the portal.Click on users. You can see the all options after launching the lab.
+
 -In Users, Click on **view lab status**.
 
 <kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_viewlabStatus.png"/></kbd>
