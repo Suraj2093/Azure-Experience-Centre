@@ -174,3 +174,6 @@ d. Invite Only : In this case the instructor can generate the vouchers to be dis
 <kbd><img src="/Images/odl_click_ok.png"/></kbd>
 
 -It will delete successfully.
+
+[<Previous](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Creating-and-Managing-ODL%E2%80%99s.md) /
+[Next>](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Report.md)
