@@ -1,0 +1,20 @@
+---
+id: labguide
+name: Azure Experience Center
+
+content:
+  url: https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/docs
+
+vars:
+  USER_NAME: "(email)"
+  USER_PASSWORD: "(email)"
+  GIT_HOST: github
+  DOCS_URL: docs.spektrasystems.com
+
+
+modules:
+  activate:
+  - GettingStarted
+  - CreateAECTemplate
+  - CreatingAndManagingODL
+  - ODLUsermanagement
