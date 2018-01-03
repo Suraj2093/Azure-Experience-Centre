@@ -6,7 +6,7 @@ Check List
 ^^^^^^^^^^^^^^^^^^^^^^^
 * For Check Point Sandblast, template is already created
 * Test the Template by following link:#/workshop/labguide/module/validateTemplate[this] , if working well +
-- Then Create an ODL by following link:#/workshop/labguide/module/CreateAECTemplate[this] 
+- Then Create an ODL by following link:#/workshop/labguide/module/CreatingAndManagingODL[this] 
 - Note down the ODL Url and create a bit.ly link to be shared to the users
 - Configure ODL Settings such as Opening Registration, Duration of ODL, expiry etc.
 
