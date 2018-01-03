@@ -1,6 +1,6 @@
 ## Creating and Managing ODL’s
  * [ODL Create](#odl-create)
-   * [Explanation of all field’s](#explanation-of-all-field’s)
+   * [Explanation of all odl field’s](#explanation-of-all-odl-field’s)
  * [ODL Hot Instance Management](#odl-hot-instance-management) 
    * [Why and How of Hot Instances](#why-and-how-of-hot-instances)
    * [Enable/Disable Hot instances](#enable-disable-hot-instances)
@@ -18,7 +18,7 @@
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Add_ODL.png"/>
 
 - Now the Add ODL Details window comes up, where you can provide the following details
-### Explanation of all field’s
+### Explanation of all odl field’s
 •	Name : Enter the Name of the ODL, which should be displayed on the ODL registration page.  
 •	Template : Select the template which will be used to pre-deploy the resources required for the ODL.  
 •	Description : Enter a description of the ODL which will be displayed on the ODL registration page as description.  
