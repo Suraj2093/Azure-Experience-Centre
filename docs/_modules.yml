@@ -27,7 +27,7 @@ modules:
     vars:
       GIT_HOST:
   validateTemplate:
-    name: Validate Template
+    name: Validating Template
     vars:
       GIT_HOST:
   CreatingAndManagingODL:
