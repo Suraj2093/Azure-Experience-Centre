@@ -45,3 +45,7 @@
 -Now you can see the user as co-admin added successfully.
 
 <kbd><img src="/Images/odl_testuser.png"/></kbd>
+
+[<Previous](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/README.md) /
+[Next>](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Creating-AEC-templates.md)
+
