@@ -12,11 +12,11 @@
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 -Once logged in, click on **Templates** on the left pane of the portal. This will list the templates if any.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/templates.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/templates.png"/>
 
 -Click on **ADD** at the top right corner of the templates page, to add a new template.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/add_template.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/add_template.png"/>
 
 -Now provide the following details in the Add Template page that comes up.  
 ### Explanation of all fields
@@ -46,7 +46,7 @@
 
 -Click on **Submit** once required options above are filled.
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/add_template_details.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/add_template_details.png"/>
 
 ### ARM Template Best Practices
 ### Use of template outputs
@@ -56,7 +56,7 @@
 
 -Click on **Edit Icon** to edit the created template and add the template permissions if any
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Template_Edit.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Template_Edit.png"/>
 
 ### Explanation with details to implement 
 * Permission Type : Choose any of the Permission type as below
@@ -70,7 +70,7 @@
 
 -Click on **Submit** once required options above are filled.
  
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Azure_built-in_role.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Azure_built-in_role.png"/>
 
 <br> b. [Custom ARM Policy](#custom-arm-policy) : Choose this permission type to assign the Custom ARM Policy to whoever is using the Resource group or Subscription of the workshop.
 <br>* [Scope Type](#scope-type) : Choose Azure to set this permission scope level at Azure
@@ -80,7 +80,7 @@
 
 -Click on **Submit** once required options above are filled.
  
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Custom_policy.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Custom_policy.png"/>
 
 <br> a. [Azure Custom Role](#azure-custom-role) : Choose this permission type to assign the Azure Custom Role to the Attendee/Instructor of the workshop.
 <br>* [Profile Type](#profile-type) : Choose Attendee or Instructor according to whom you want to assign this role.
@@ -92,17 +92,17 @@
 
 -Click on **Submit** once required options above are filled.
  
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/custom_role.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/custom_role.png"/>
 
 -Once all the permissions are added to the template, please click on **Submit** above the template Permissions section.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/permissions_template.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/permissions_template.png"/>
 
 ### Validating Template
 ### Validation
 -Click on **Validate subscription with ARM template** icon corresponding to the template created.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Template_validate.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Template_validate.png"/>
 
 -Provide the azure subscription group and subscription in which the validator should be run. Also provide the regions where you want to validate the template and click on **Submit**.  
 
