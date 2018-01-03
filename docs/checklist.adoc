@@ -11,7 +11,7 @@ Check List for CheckPoint Sandblast
 - Configure ODL Settings such as Opening Registration, Duration of ODL, expiry etc.
 
 On the Event Day
-^^^^^^^^^^^^****
+^^^^^^^^^^^^^^^^
 
 - Publish the URL in the room/Live session
 - Users can register for the ODL using the shared URL 
