@@ -18,41 +18,49 @@ image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master
 How to login to AEC
 ^^^^^^^^^^^^^^^^^^^
 
-* Navigate to the portal using the link
-https://experience-azure-mgmt.azurewebsites.net/#/main.
+* Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main.
+
 * Click on the *Log In* button on the top right portion of the page.
-image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/portal_login.png[Portal Login]
+  image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/portal_login.png[Portal Login]
 
 * On clicking *Log In* button, you will be redirected to the following
 page.
-* Enter your Email address and click on Next.
 
+* Enter your Email address and click on Next.
 image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/portal_login1.png[Portal Login1]
 
 * Enter the password for your account and click on Sign in.
-
 image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Login_password.png[Login]
+
 [[how-to-logout-from-aec]]
 How to logout from AEC
 ^^^^^^^^^^^^^^^^^^^^^^
 
--To logout from the portal, Click on the button with your username on
+* To logout from the portal, Click on the button with your username on
 the top right hand side of the page. A drop down list will be displayed.
 Click on logout and you will be logged out and will be redirected to the
 home page.
+image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Logout.png[Logout]
 
 [[adding-co-admins]]
 Adding Co-Admins
 ^^^^^^^^^^^^^^^^
 
--Navigate to the portal using the link
+* Navigate to the portal using the link
 https://experience-azure-mgmt.azurewebsites.net/#/main and login with
-your AEC credentials. -Once logged in, click on *Users* on the left pane
+your AEC credentials.
+ 
+* Once logged in, click on *Users* on the left pane
 of the portal.This will list the users if any.
+image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_Click_Users.png[Navigate]
 
--Click on ADD at the top right corner of the Users page, to add a new
-user.Click on add users.
+* Click on ADD at the top right corner of the Users page, to add a new
+user. Click on add users.
+image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_click_adduser.png[AddUser]
 
--Now provide the following details. Click on Submit.
+* Now provide the following details. Click on Submit.
 
--Now you can see the user as co-admin added successfully.
+image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_click_submit.png[Submit]
+
+* Now you can see the user as co-admin added successfully.
+image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_testuser.png[CoAdmin]
