@@ -25,7 +25,7 @@
 ### How to logout from AEC
 -To logout from the portal, Click on the button with your username on the top right hand side of the page. A drop down list will be displayed. Click on logout and you will be logged out and will be redirected to the home page.
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Imagess/Logout.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Logout.png"/>
 
 ### Adding Co-Admins
 
