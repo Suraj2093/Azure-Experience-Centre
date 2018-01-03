@@ -11,11 +11,11 @@
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
 - Once logged in, click on **ODL** on the left pane of the portal. This will list the events if any.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_click.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/ODL_click.png"/>
 
 - Click on **ADD ON DEMAND LAB** at the top right corner of the events page, to add a new event.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Add_ODL.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Add_ODL.png"/>
 
 - Now the Add ODL Details window comes up, where you can provide the following details
 ### Explanation of all odl fields
@@ -50,7 +50,7 @@
 
 - Click on **Submit** once required options above are filled.
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_detail.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/ODL_detail.png"/>
 
 ### ODL Hot Instance Management
 ### Why and How of Hot Instances 
@@ -59,33 +59,33 @@
 ### Enable or Disable Hot instances   
 •	Click on **Edit Icon** to edit the created ODL.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Edit_ODL.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Edit_ODL.png"/>
 
 •	Scroll down the Edit ODL page and check the option the corresponding to Enable Hot Instance  
 •	This will ask the Minimum Available instances, where you can enter the minimum hot instances that is required at any point of time of the workshop. Once this is set the available hot instances will always be grater than or equal to this number.  
 •	Click on **Submit** once required options above are filled.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Enable-hot.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Enable-hot.png"/>
 
 •	Enabling the Hot Instance in the Edit ODL page will create a new icon corresponding to the ODL.  
 •	Click on **Check Hot Instance Icon** to edit the created ODL.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Check_hot.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Check_hot.png"/>
 
 •	In the Hot Istance page, click on **ADD HOT INSTANCES** to deploy hot instnaces for the ODL.
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Add_instances.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Add_instances.png"/>
 
 •	In the Add Hot instance Window that pops up, the Currently available hot instances show the instance which are availble, i.e unassigned to any user.  
 •	In the Add Hot instance Window that pops up, enter the number of hot instance that you want to deploy, corresponding to the Number of Hot Instances test box.  
 •	Click on **ADD** once required options above are filled.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Number_instancepng.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Number_instancepng.png"/>
 
 ### Scheduling Hot Instances  
 •	In the Hot Instance page, click on **ADD HOT INSTANCES** to schedule the deployment of hot instnaces for the ODL.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/Add_instances.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Add_instances.png"/>
 
 •	In the Add Hot instance Window that pops up, the Currently available hot instances show the instance which are availble, i.e unassigned to any user.
 •	In the Add Hot instance Window that pops up, enter the number of hot instance that you want to deploy, corresponding to the Number of Hot Instances test box.  
@@ -94,19 +94,19 @@
 •	Enter the time at which you want to start the deployment of hot instance.  
 •	Click on **ADD** once required options above are filled.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/hot_schedule.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/hot_schedule.png"/>
 
 •	In the Hot Instance page, click on **SCHEDULES** to view the Hot Instance schedule history.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/click_schedule.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/click_schedule.png"/>
 
 •	In the Hot Instance Schedules page, you can view all the schedules for the ODL. 
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/schedules_history.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/schedules_history.png"/>
 
 •	In the Hot Instance Schedules page, you can also delete a schedule if you do not want to deploy the hot instance at scheduled time.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/schedule_delete.png"/>
+<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/schedule_delete.png"/>
 
 [<Previous](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Creating-AEC-templates.md) /
 [Next>](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/ODL-User-Management.md)
