@@ -47,6 +47,7 @@
 •	Intelligence to self-heal : Check this option if you want to start another deployment for the failed hot instances and delete the failed ones.  
 •	Test : Check this option if the ODL is for test purpose, so the it does not get extracted to the excel sheet.  
 
+
 - Click on **Submit** once required options above are filled.
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/ODL_detail.png"/>
@@ -106,4 +107,7 @@
 •	In the Hot Instance Schedules page, you can also delete a schedule if you do not want to deploy the hot instance at scheduled time.  
 
 <img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/schedule_delete.png"/>
+
+[<Previous](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Creating-AEC-templates.md) /
+[Next>](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/ODL-User-Management.md)
 
