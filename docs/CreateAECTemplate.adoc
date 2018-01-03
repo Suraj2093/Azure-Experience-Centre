@@ -2,15 +2,7 @@
 Creating AEC Templates
 ~~~~~~~~~~~~~~~~~~~~~~
 
-* link:#create-template[Create Template]
-** link:#explanation-of-all-fields[Explanation of all fields]
-* link:#arm-template-best-practices[ARM Template Best Practices]
-** link:#use-of-template-outputs[Use of template outputs]
-* link:#template-permissions[Template Permissions]
-** link:#explanation-with-details-to-implement[Explanation with details
-to implement]
-* link:#validating-template[Validating Template]
-** link:#validation[Validation]
+
 
 [[create-template]]
 Create Template
@@ -140,19 +132,3 @@ image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master
 
 image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/permissions_template.png[permissions_template]
 
-[[validating-template]]
-Validating Template
-^^^^^^^^^^^^^^^^^^^
-
-[[validation]]
-Validation
-^^^^^^^^^^
-
-- Click on *Validate subscription with ARM template* icon corresponding
-to the template created.
-
-image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Template_validate.png[templatevalidate]
-
-- Provide the azure subscription group and subscription in which the validator should be run. Also provide the regions where you want to validate the template and click on *Submit*.
-
-image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/validation_details.png[validatedetails]
