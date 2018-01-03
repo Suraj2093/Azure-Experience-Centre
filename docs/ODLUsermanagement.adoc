@@ -2,12 +2,6 @@
 ODL User Management
 ~~~~~~~~~~~~~~~~~~~
 
-* link:#user-signup-type-and-usage[User Signup type and usage]
-* link:#registration-management[Registration Management]
-* link:#managing-and-distributing-vouchers[Managing and distributing
-Vouchers]
-* link:#managing-each-user-lab[Managing each user lab]
-
 [[odl-user-management-1]]
 ODL User Management
 ^^^^^^^^^^^^^^^^^^^
