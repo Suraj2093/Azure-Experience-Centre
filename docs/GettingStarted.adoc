@@ -2,9 +2,6 @@
 Getting Started
 ~~~~~~~~~~~~~~~
 
-* link:#logging-to-management-portal[Logging to Management Portal]
-* link:#adding-co-admins[Adding Co-Admins]
-
 [[logging-to-management-portal]]
 Logging to Management Portal
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
