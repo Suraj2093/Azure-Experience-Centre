@@ -14,6 +14,7 @@ vars:
 
 modules:
   activate:
+  - checklist
   - GettingStarted
   - CreateAECTemplate
   - CreatingAndManagingODL
