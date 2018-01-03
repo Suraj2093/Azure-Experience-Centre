@@ -1,4 +1,4 @@
-
+ 
 
 # Azure-Experience-Centre
 
@@ -6,8 +6,8 @@
 
 <!-- TOC -->
 * [Getting Started](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Getting%20Started.md)
- * [Logging to Management Portal](#logging-to-management-portal)
- * [Adding Co-Admins](#adding-co-admins)
+  * [Logging to Management Portal](#logging-to-management-portal)
+  * [Adding Co-Admins](#adding-co-admins)
 * [Creating AEC Templates](#Creating-aec-templates)
   * [Create Template](#create-template)
     * [Explanation of all fields](#explanation-of-all-fields) 
