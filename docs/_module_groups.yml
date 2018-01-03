@@ -1,0 +1,7 @@
+training:
+  name: Azure Experience Center
+  modules:
+    - GettingStarted
+    - CreateAECTemplate
+    - CreatingAndManagingODL
+    - ODLUsermanagement.adoc
