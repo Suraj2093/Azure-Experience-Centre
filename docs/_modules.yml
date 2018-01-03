@@ -30,3 +30,7 @@ modules:
     name: ODL User Management
     vars:
       GIT_HOST:
+  checklist:
+    name: CheckList for the Check Point Sandblast
+    vars:
+      GIT_HOST:
