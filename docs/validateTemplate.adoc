@@ -1,0 +1,16 @@
+[[validating-template]]
+Validating Template
+^^^^^^^^^^^^^^^^^^^
+
+[[validation]]
+Validation
+^^^^^^^^^^
+
+- Click on *Validate subscription with ARM template* icon corresponding
+to the template created.
+
+image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Template_validate.png[templatevalidate]
+
+- Provide the azure subscription group and subscription in which the validator should be run. Also provide the regions where you want to validate the template and click on *Submit*.
+
+image:https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/validation_details.png[validatedetails]
