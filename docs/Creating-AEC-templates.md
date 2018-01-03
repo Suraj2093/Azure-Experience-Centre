@@ -1,4 +1,4 @@
-* Creating AEC Templates](#Creating-aec-templates)
+## Creating AEC Templates]
   * [Create Template](#create-template)
     * [Explanation of all fields](#explanation-of-all-fields) 
   * [Template Permissions](#template-permissions)
