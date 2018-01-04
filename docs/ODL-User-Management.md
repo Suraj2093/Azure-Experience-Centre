@@ -95,7 +95,7 @@ d. Invite Only : In this case the instructor can generate the vouchers to be dis
 **Distributing Vouchers**
 -Copy the Voucher Code that you created and give in registration page.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Copy_VoucherCode.png"/></kbd>
+<img src="/Images/Copy_VoucherCode.png"/>
 
 -paste the Voucher Code in Registration page below.
 
